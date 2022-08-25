@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jgondres
+- 👀 I’m interested in Data Science and Software Development Open Source project.
+- 🌱 I’m currently learning Software Arquictecture, Business Arquitecture and Artificial Intelligence
+- 💞️ I’m looking to collaborate on this Open Source project.
